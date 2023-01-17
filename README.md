@@ -3,6 +3,7 @@
 This is a  React banking app that displays a list of recent bank transactions.
 
 ##Author
+
 Mutheki Njora
 
 ### Description
