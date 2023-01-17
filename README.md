@@ -28,6 +28,7 @@ For you to access this project you need;
 
 ### Deployment
 here is a link to the deployed website
+https://m-njora-bank-of-flatiron.netlify.app/
 
 ### Licence
 MIT
